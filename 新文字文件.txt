@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ﻿test by LIN p
 
+=======
+test by LIN p
+and Lin is test now
+>>>>>>> parent of b095524... Revert "第二行文字"
