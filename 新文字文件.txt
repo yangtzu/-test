@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test by LIN p
 
 hey I'm comming
@@ -6,3 +7,6 @@ hey I'm comming
 kk show 24h
 
 so har so good
+=======
+test by LIN p
+>>>>>>> parent of ea22baf... 第四次修正
