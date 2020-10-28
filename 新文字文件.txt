@@ -1,15 +1,2 @@
-<<<<<<< HEAD
-test by LIN p
+﻿test by LIN p
 
-hey I'm comming
-<<<<<<< HEAD
-
-
-kk show 24h
-
-so har so good
-=======
-test by LIN p
->>>>>>> parent of ea22baf... 第四次修正
-=======
->>>>>>> parent of 9060154... 第五次修正
